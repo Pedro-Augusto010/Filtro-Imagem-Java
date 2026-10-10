@@ -1,4 +1,4 @@
-# Filtros de Imagem em Java
+# 🖼️ Filtros de Imagem em Java 📸 📷 
 
 Projeto desenvolvido na disciplina de **Programação Orientada a Objetos**, da **Universidade Católica de Brasília (UCB)**, com o objetivo de aplicar conceitos de orientação a objetos na manipulação de imagens utilizando Java.
 
