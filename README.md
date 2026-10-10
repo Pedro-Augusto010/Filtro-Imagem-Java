@@ -49,3 +49,11 @@ Após a execução, uma janela será aberta para comparar as imagens. O resultad
 
 Nos dois filtros, a transparência original é preservada.
 
+## 📁 Estrutura do Repositório
+
+O projeto está organizado da seguinte forma:
+
+- 📄 **filtro_foto.java** — Código-fonte principal, contendo a interface `Filtro`, a classe abstrata `FiltroPixel`, as classes `FiltroCinza` e `FiltroNegativo` e a classe `Principal`.
+- 🖼️ **prints_imagens_com_filtro** — Imagem de exemplo utilizada para testar os filtros.
+
+
