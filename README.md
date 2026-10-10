@@ -1,7 +1,5 @@
 # 🖼️ Filtros de Imagem em Java 📸 📷 
 
-Projeto desenvolvido na disciplina de **Programação Orientada a Objetos**, da **Universidade Católica de Brasília (UCB)**, com o objetivo de aplicar conceitos de orientação a objetos na manipulação de imagens utilizando Java.
-
 ## Sobre o projeto
 
 O programa permite carregar uma imagem no formato PNG, escolher um filtro por meio do terminal e visualizar a imagem original e a modificada lado a lado.
@@ -36,15 +34,6 @@ A imagem resultante também é salva automaticamente, preservando a transparênc
 
 **Polimorfismo:** permite utilizar diferentes filtros por meio de uma variável do tipo `Filtro`, executando a transformação correspondente à escolha do usuário.
 
-## Como executar o projeto
-
-1. Instale o JDK e configure o Java no computador.
-2. Abra o projeto no Visual Studio Code.
-3. Coloque uma imagem chamada `imagem.png` na pasta do projeto.
-4. Abra o terminal e compile o programa utilizando `javac atividade03.java`.
-5. Execute utilizando `java Principal`.
-6. Escolha uma das opções apresentadas no terminal.
-
 **Menu disponível:**
 
 - `1` — Tons de cinza
@@ -60,6 +49,3 @@ Após a execução, uma janela será aberta para comparar as imagens. O resultad
 
 Nos dois filtros, a transparência original é preservada.
 
-## Considerações finais
-
-O desenvolvimento deste projeto possibilitou aplicar na prática conceitos fundamentais da Programação Orientada a Objetos, como interfaces, classes abstratas, herança e polimorfismo. Além disso, proporcionou uma experiência com manipulação de imagens, processamento de pixels e utilização de bibliotecas nativas do Java.
